@@ -30,7 +30,7 @@ and the file [create_embedding_oxford_uniskip_biskip.py](https://github.com/shan
 4. run runtime.py
 
 ## Testing
-1. Download hd5 files from [drive](https://drive.google.com/drive/folders/1gyFgwRgJaQbRLWXaD3c8-xXRWbWAT3Ct?usp=sharing)).
+1. Download hd5 files from [drive](https://drive.google.com/drive/folders/1gyFgwRgJaQbRLWXaD3c8-xXRWbWAT3Ct?usp=sharing).
 2. run runtime.py with the following parameters:
 - type: choose an architecture (simple | normal | deep)
 - inference = True
